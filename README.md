@@ -22,3 +22,6 @@ A mover is an object that moves. It has properties like position, velocity, acce
 
 ### Physics
 In here i define forces and apply them how i see fit. In simpleGravitationalEnvironment galaxies' cores apply forces to each other, and masslessMovers feel these forces too. In gravitationalEnvironment everything that has mass attracts every other thing that has mass.
+
+### Constants
+In this file i group all constants that mainly affect the physics simulation of the sketch. To produce different sketches this is where the changes should be done. My approach is to create a new Sketch and modify the constants inside the new sketch in order to have that sketch run as intended whenever i want, without tweaking the constants every time i run a different sketch.
