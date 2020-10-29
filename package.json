@@ -1,0 +1,16 @@
+{
+  "name": "project_template",
+  "version": "1.0.0",
+  "description": "p5js project",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ccapture.js": "^1.1.0",
+    "gif.js": "^0.2.0",
+    "webm-writer": "^0.3.0"
+  }
+}
