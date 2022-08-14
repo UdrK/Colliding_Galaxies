@@ -2,6 +2,8 @@
 This is a p5.js project that simulates a simple gravitational environment, puts galaxies in it and has them collide to produce some cool visuals.
 [Here's](https://imgur.com/gallery/zhAAztE) some examples of what it can do.
 
+https://user-images.githubusercontent.com/26527575/184556875-ebdb735e-2e47-45a1-95ff-204972d3c6b2.mp4
+
 ## Project structure
 
 
